@@ -76,7 +76,7 @@ Git · GitHub · STS · VS Code
 
 📧 Email : azxx0731@gmail.com
 
-📘 Portfolio : https://ginger-soldier-e46.notion.site/1-1958a28cbdc682748aa1016c16f7dc2f?source=copy_link
+📘 Portfolio : https://ginger-soldier-e46.notion.site/Developer-Portfolio-6d18a28cbdc682e38111015f50fd7613?source=copy_link
 
 
 <!--
