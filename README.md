@@ -58,21 +58,25 @@ Java와 Spring Boot 기반 웹 애플리케이션을 개발하며 백엔드 기�
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 
-# 🚀 Projects
+## 📂 Projects
 
-|Project|Description|
-|-------|-----------|
-|🛒 **JinguMarket**|Spring MVC 기반 부산진구 중고거래 플랫폼|
-|📊 **Dashboard**|거래량·평균 시세·인기 카테고리를 분석하는 Dashboard|
-|💰 **YearTax**|Spring Boot 기반 사내 연말정산 시스템|
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+<h3 align="center">🛒 JinguMarket</h3>
 
-## 🛒 JinguMarket
+<img src="jingumarket.png" width="100%" alt="JinguMarket"/>
 
-Spring MVC + MyBatis + Oracle 기반 중고거래 플랫폼
+<p align="center">
+지역 기반 중고거래 플랫폼
+</p>
 
-### 주요 기능
+**Tech**
+
+Spring MVC · MyBatis · Oracle · JSP · Bootstrap
+
+**Features**
 
 - 회원가입 / 로그인
 - 상품 등록 및 수정
@@ -80,44 +84,140 @@ Spring MVC + MyBatis + Oracle 기반 중고거래 플랫폼
 - 찜 기능
 - 댓글 기능
 
-GitHub :
+<p align="center">
 
-Notion :
+<a href="여기에 GitHub Repository 주소">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
----
+</a>
 
-## 📊 Dashboard
+<a href="여기에 Notion 주소">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
-JinguMarket 서비스 확장 프로젝트
+</a>
 
-### 주요 기능
+</p>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📊 Dashboard</h3>
+
+<img src="dashboard.png" width="100%" alt="Dashboard"/>
+
+<p align="center">
+중고거래 플랫폼 Dashboard
+</p>
+
+**Tech**
+
+Spring MVC · MyBatis · AJAX · Chart.js
+
+**Features**
+
+- 평균 시세 조회
 - 거래량 분석
-- 평균 시세 분석
-- 인기 카테고리 분석
-- 지역별 거래 통계
-- Chart.js 시각화
+- 인기 카테고리
+- 지역 통계
 
-GitHub :
+<p align="center">
 
-Notion :
+<a href="여기에 GitHub Repository 주소">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
----
+</a>
 
-## 💰 YearTax
+<a href="여기에 Notion 주소">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
-Spring Boot 기반 연말정산 시스템
+</a>
 
-### 주요 기능
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📦 WMS</h3>
+
+<img src="wms.png" width="100%" alt="WMS"/>
+
+<p align="center">
+재고 관리 시스템
+</p>
+
+**Tech**
+
+Spring Boot · MyBatis · Oracle
+
+**Features**
+
+- 상품 관리
+- 입고 관리
+- 출고 관리
+- 재고 조회
+
+<p align="center">
+
+<a href="여기에 GitHub Repository 주소">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="여기에 Notion 주소">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💰 YearTax</h3>
+
+<img src="yeartax.png" width="100%" alt="YearTax"/>
+
+<p align="center">
+사내 연말정산 시스템
+</p>
+
+**Tech**
+
+Spring Boot · Spring Security · JPA · Oracle
+
+**Features**
 
 - 연말정산 입력
 - 공제 계산
 - 관리자 승인
 - PDF 출력
 
-GitHub :
+<p align="center">
 
-Notion :
+<a href="여기에 GitHub Repository 주소">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="여기에 Notion 주소">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
