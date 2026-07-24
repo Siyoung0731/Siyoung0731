@@ -10,7 +10,7 @@
   </a>
 
   <a href="여기에 노션 포트폴리오">
-    <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+    <img src="[https://img.shields.io/badge/Portfolio-Notion-000000](https://ginger-soldier-e46.notion.site/Developer-Portfolio-6d18a28cbdc682e38111015f50fd7613?source=copy_link)?style=flat-square&logo=notion&logoColor=white"/>
   </a>
 </p>
 
