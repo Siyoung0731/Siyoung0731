@@ -1,8 +1,4 @@
 <h1 align="center">최시영 · Backend Developer</h1>
-  <a href="<h1 align="center">최시영 · Backend Developer</h1>
-<p align="center">
-사용자의 문제를 분석하고 해결하는 백엔드 개발자를 목표로 합니다.
-</p>
 
 <p align="center">
   <a href="mailto:azxx0731@gmail.com">
