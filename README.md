@@ -1,27 +1,5 @@
 <h1 align="center">최시영 · Backend Developer</h1>
-
-<p align="center">
-사용자의 문제를 분석하고 해결하는 백엔드 개발자를 목표로 합니다.
-</p>
-
-<p align="center">
-  <a href="mailto:본인이메일">
-    <img src="https://img.shields.io/badge/Email-본인이메일-555555?style=flat-square"/>
-  </a>
-
   <a href="<h1 align="center">최시영 · Backend Developer</h1>
-
-<p align="center">
-사용자의 문제를 분석하고 해결하는 백엔드 개발자를 목표로 합니다.
-</p>
-
-<p align="center">
-  <a href="mailto:본인이메일">
-    <img src="https://img.shields.io/badge/Email-본인이메일-555555?style=flat-square"/>
-  </a>
-
-  <a href="<h1 align="center">최시영 · Backend Developer</h1>
-
 <p align="center">
 사용자의 문제를 분석하고 해결하는 백엔드 개발자를 목표로 합니다.
 </p>
