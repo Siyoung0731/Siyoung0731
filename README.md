@@ -83,6 +83,7 @@ Java와 Spring Boot 기반 웹 애플리케이션을 개발하며 백엔드 기�
 <img src="https://img.shields.io/badge/JSP-D22128?style=flat-square"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
+<div style="height: 170px;">
 **Features**
 
 - 회원가입 / 로그인
@@ -90,6 +91,8 @@ Java와 Spring Boot 기반 웹 애플리케이션을 개발하며 백엔드 기�
 - 상품 검색
 - 찜 기능
 - 댓글 기능
+
+</div>
 
 <p align="center">
 
@@ -125,6 +128,8 @@ Java와 Spring Boot 기반 웹 애플리케이션을 개발하며 백엔드 기�
 <img src="https://img.shields.io/badge/AJAX-005571?style=flat-square"/>
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
 
+<div style="height:170px;">
+
 **Features**
 
 - 평균 시세 조회
@@ -132,14 +137,16 @@ Java와 Spring Boot 기반 웹 애플리케이션을 개발하며 백엔드 기�
 - 인기 카테고리
 - 지역별 거래 통계
 
+</div>
+
 <p align="center">
 
-<a href="https://github.com/Siyoung0731/JinguMarket-Dashboard">
+<a href="https://github.com/Siyoung0731/JinguMarket-Dashboard-">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 </a>
 
-<a href="여기에 노션 주소">
+<a href="https://ginger-soldier-e46.notion.site/4-a308a28cbdc682d68624815ebbb413f9?source=copy_link">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 </a>
@@ -179,12 +186,7 @@ Java와 Spring Boot 기반 웹 애플리케이션을 개발하며 백엔드 기�
 
 <p align="center">
 
-<a href="여기에 GitHub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="여기에 노션 주소">
+<a href="https://ginger-soldier-e46.notion.site/3-7ef8a28cbdc683a5aed4814797f29728?source=copy_link">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 </a>
@@ -226,7 +228,7 @@ Java와 Spring Boot 기반 웹 애플리케이션을 개발하며 백엔드 기�
 
 </a>
 
-<a href="여기에 노션 주소">
+<a href="https://ginger-soldier-e46.notion.site/1-1958a28cbdc682748aa1016c16f7dc2f?source=copy_link">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 </a>
