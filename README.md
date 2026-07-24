@@ -61,20 +61,27 @@ Java와 Spring Boot 기반 웹 애플리케이션을 개발하며 백엔드 기�
 ## 📂 Projects
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">🛒 JinguMarket</h3>
 
-<img src="jingumarket.png" width="100%" alt="JinguMarket"/>
+<img src="jinguDashboard.png" width="100%" alt="JinguMarket"/>
 
 <p align="center">
-지역 기반 중고거래 플랫폼
+<b>지역 기반 중고거래 플랫폼</b><br>
+4인 팀 프로젝트
 </p>
 
 **Tech**
 
-Spring MVC · MyBatis · Oracle · JSP · Bootstrap
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/MyBatis-DC382D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-D22128?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
 **Features**
 
@@ -86,12 +93,12 @@ Spring MVC · MyBatis · Oracle · JSP · Bootstrap
 
 <p align="center">
 
-<a href="여기에 GitHub Repository 주소">
+<a href="https://github.com/Siyoung0731/JinguMarket">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 </a>
 
-<a href="여기에 Notion 주소">
+<a href="여기에 노션 주소">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 </a>
@@ -104,31 +111,35 @@ Spring MVC · MyBatis · Oracle · JSP · Bootstrap
 
 <h3 align="center">📊 Dashboard</h3>
 
-<img src="dashboard.png" width="100%" alt="Dashboard"/>
+<img src="jinguDashboard.png" width="100%" alt="Dashboard"/>
 
 <p align="center">
-중고거래 플랫폼 Dashboard
+<b>JinguMarket Dashboard</b><br>
+서비스 확장 프로젝트
 </p>
 
 **Tech**
 
-Spring MVC · MyBatis · AJAX · Chart.js
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/MyBatis-DC382D?style=flat-square"/>
+<img src="https://img.shields.io/badge/AJAX-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
 
 **Features**
 
 - 평균 시세 조회
 - 거래량 분석
 - 인기 카테고리
-- 지역 통계
+- 지역별 거래 통계
 
 <p align="center">
 
-<a href="여기에 GitHub Repository 주소">
+<a href="https://github.com/Siyoung0731/JinguMarket-Dashboard">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 </a>
 
-<a href="여기에 Notion 주소">
+<a href="여기에 노션 주소">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 </a>
@@ -143,33 +154,37 @@ Spring MVC · MyBatis · AJAX · Chart.js
 
 <td width="50%" valign="top">
 
-<h3 align="center">📦 WMS</h3>
+<h3 align="center">🌱 Smart Farm</h3>
 
-<img src="wms.png" width="100%" alt="WMS"/>
+<img src="smartFarm.png" width="100%" alt="SmartFarm"/>
 
 <p align="center">
-재고 관리 시스템
+<b>스마트팜 모니터링 시스템</b><br>
+캡스톤 프로젝트
 </p>
 
 **Tech**
 
-Spring Boot · MyBatis · Oracle
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
 
 **Features**
 
-- 상품 관리
-- 입고 관리
-- 출고 관리
-- 재고 조회
+- 센서 데이터 수집
+- 실시간 모니터링
+- 데이터 시각화
+- Dashboard 구현
 
 <p align="center">
 
-<a href="여기에 GitHub Repository 주소">
+<a href="여기에 GitHub">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 </a>
 
-<a href="여기에 Notion 주소">
+<a href="여기에 노션 주소">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 </a>
@@ -182,18 +197,23 @@ Spring Boot · MyBatis · Oracle
 
 <h3 align="center">💰 YearTax</h3>
 
-<img src="yeartax.png" width="100%" alt="YearTax"/>
+<img src="yearTax.png" width="100%" alt="YearTax"/>
 
 <p align="center">
-사내 연말정산 시스템
+<b>사내 연말정산 시스템</b><br>
+개인 프로젝트
 </p>
 
 **Tech**
 
-Spring Boot · Spring Security · JPA · Oracle
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
 **Features**
 
+- 로그인
 - 연말정산 입력
 - 공제 계산
 - 관리자 승인
@@ -201,12 +221,12 @@ Spring Boot · Spring Security · JPA · Oracle
 
 <p align="center">
 
-<a href="여기에 GitHub Repository 주소">
+<a href="https://github.com/Siyoung0731/yeartax">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 </a>
 
-<a href="여기에 Notion 주소">
+<a href="여기에 노션 주소">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 </a>
